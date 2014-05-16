@@ -1,4 +1,12 @@
 myshop-examples
-===============
+======================
 
-Myshop Example scripts using custom connection options for shop owners
+Example scripts for using the myshop connections for individual shops
+
+Important: If you're looking for information for partners or developers working on myshop plugins, please go to:
+https://github.com/myshopecommerce/myshop-developer
+
+Available scripts:
+
+- discountCodes.php :: Script for returning discount code validity in response to a myshop request
+- dynamicCustomerData.php :: Script for returning customer data in response to a myshop request
