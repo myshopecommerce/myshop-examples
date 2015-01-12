@@ -16,5 +16,5 @@ Available scripts:
 
 For more information regarding available connections / myshop requests, please review our documentation:
 
-NL: http://www.help-mijnwinkel.nl/algemeen
+NL: http://www.help-mijnwinkel.nl/algemeen  
 EN: http://www.help-myshop.com/common
